@@ -2,13 +2,28 @@
 
 ## 💻 Full Stack Development Student
 
-- 🌱 Learning JavaScript and Python
-- 🚀 Building projects on GitHub
-- 📍 Pakistan
+🌱 Currently learning JavaScript and Python
 
-### 🛠 Skills
+🚀 Building projects and improving my coding skills
+
+📍 Pakistan
+
+## 🛠 Skills
+
 - JavaScript
 - Python
+- HTML
+- CSS
 
-### 📫 Contact
-Coming soon...
+## 📚 Currently Learning
+
+- Full Stack Development
+- Git & GitHub
+
+## 🎯 Goals
+
+- Build amazing web applications
+- Learn modern web technologies
+- Contribute to open-source projects
+
+⭐ Thanks for visiting my profile!
